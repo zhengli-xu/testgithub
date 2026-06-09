@@ -17,6 +17,9 @@
     RDVC2     TRUE   THEN: RDVCALL_SAVE_USER_SELECTED_VIEW_TYPE 
 ==> Rule  >RDVC2                                          total  time:     0.19 sec 
  
+
+
+ jhhhjhj
 ==> Rule  started  >RDVC8 
             RDVAT501  TRUE   IF:   ATTWK = NULL 
             RDVAT501  TRUE   IF:   SELECT DVATTWK(*,FILTER) = "Y" 
